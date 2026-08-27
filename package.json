@@ -5,8 +5,8 @@
   "description": "CLOVEKICK — original streetwear, limited drops.",
   "scripts": {
     "dev": "next dev",
-    "build": "prisma generate && prisma migrate deploy && next build",
-    "start": "next start -p ${PORT:-3000}",
+    "build": "prisma generate && next next",
+    "start": "prisma migrate deploy && next start -p ${PORT:-3000}",
     "lint": "next lint",
     "postinstall": "prisma generate",
     "db:seed": "tsx prisma/seed.ts",
