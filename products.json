@@ -1,0 +1,1076 @@
+[
+  {
+    "name": "Halflight Bomber",
+    "slug": "halflight-bomber",
+    "sku": "CK-JA-1000",
+    "category": "Jackets",
+    "priceInPaise": 449900,
+    "status": "LIVE",
+    "description": "A boxy bomber cut from brushed twill with a bonded inner shell. Built for the transition seasons \u2014 structured shoulders, a ribbed hem that actually holds its shape, and an interior stash pocket sized for a phone and cards. Cut generous through the chest, tapered at the waist.",
+    "story": "First silhouette of the new season. Ten sample runs before we signed off on the shoulder line.",
+    "dropNumber": 0,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 12,
+    "images": [
+      "/products/halflight-bomber-1.svg",
+      "/products/halflight-bomber-2.svg"
+    ]
+  },
+  {
+    "name": "Static Tee",
+    "slug": "static-tee-1",
+    "sku": "CK-HO-1001",
+    "category": "Hoodies",
+    "priceInPaise": 159900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Static colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/static-tee-1-1.svg",
+      "/products/static-tee-1-2.svg"
+    ]
+  },
+  {
+    "name": "Blackout Shorts",
+    "slug": "blackout-shorts-2",
+    "sku": "CK-T--1002",
+    "category": "T-Shirts",
+    "priceInPaise": 199900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Blackout colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 2,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/blackout-shorts-2-1.svg",
+      "/products/blackout-shorts-2-2.svg"
+    ]
+  },
+  {
+    "name": "Ember Tote",
+    "slug": "ember-tote-3",
+    "sku": "CK-JA-1003",
+    "category": "Jackets",
+    "priceInPaise": 169900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Ember colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 3,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/ember-tote-3-1.svg",
+      "/products/ember-tote-3-2.svg"
+    ]
+  },
+  {
+    "name": "Concrete Overshirt",
+    "slug": "concrete-overshirt-4",
+    "sku": "CK-BO-1004",
+    "category": "Bottoms",
+    "priceInPaise": 219900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Concrete colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 4,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/concrete-overshirt-4-1.svg",
+      "/products/concrete-overshirt-4-2.svg"
+    ]
+  },
+  {
+    "name": "Voltage Sweatpant",
+    "slug": "voltage-sweatpant-5",
+    "sku": "CK-HE-1005",
+    "category": "Headwear",
+    "priceInPaise": 349900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Voltage colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 5,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/voltage-sweatpant-5-1.svg",
+      "/products/voltage-sweatpant-5-2.svg"
+    ]
+  },
+  {
+    "name": "Feral Tee",
+    "slug": "feral-tee-6",
+    "sku": "CK-AC-1006",
+    "category": "Accessories",
+    "priceInPaise": 299900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Feral colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 6,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/feral-tee-6-1.svg",
+      "/products/feral-tee-6-2.svg"
+    ]
+  },
+  {
+    "name": "Quiet Shorts",
+    "slug": "quiet-shorts-7",
+    "sku": "CK-HO-1007",
+    "category": "Hoodies",
+    "priceInPaise": 179900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Quiet colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 7,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/quiet-shorts-7-1.svg",
+      "/products/quiet-shorts-7-2.svg"
+    ]
+  },
+  {
+    "name": "Rebar Tote",
+    "slug": "rebar-tote-8",
+    "sku": "CK-T--1008",
+    "category": "T-Shirts",
+    "priceInPaise": 209900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Rebar colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 8,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/rebar-tote-8-1.svg",
+      "/products/rebar-tote-8-2.svg"
+    ]
+  },
+  {
+    "name": "Ashline Overshirt",
+    "slug": "ashline-overshirt-9",
+    "sku": "CK-JA-1009",
+    "category": "Jackets",
+    "priceInPaise": 399900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Ashline colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 9,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/ashline-overshirt-9-1.svg",
+      "/products/ashline-overshirt-9-2.svg"
+    ]
+  },
+  {
+    "name": "Nightshift Sweatpant",
+    "slug": "nightshift-sweatpant-10",
+    "sku": "CK-BO-1010",
+    "category": "Bottoms",
+    "priceInPaise": 229900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Nightshift colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 10,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/nightshift-sweatpant-10-1.svg",
+      "/products/nightshift-sweatpant-10-2.svg"
+    ]
+  },
+  {
+    "name": "Riot Tee",
+    "slug": "riot-tee-11",
+    "sku": "CK-HE-1011",
+    "category": "Headwear",
+    "priceInPaise": 329900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Riot colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 11,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/riot-tee-11-1.svg",
+      "/products/riot-tee-11-2.svg"
+    ]
+  },
+  {
+    "name": "Overcast Shorts",
+    "slug": "overcast-shorts-12",
+    "sku": "CK-AC-1012",
+    "category": "Accessories",
+    "priceInPaise": 399900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Overcast colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 12,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/overcast-shorts-12-1.svg",
+      "/products/overcast-shorts-12-2.svg"
+    ]
+  },
+  {
+    "name": "Groundwork Tote",
+    "slug": "groundwork-tote-13",
+    "sku": "CK-HO-1013",
+    "category": "Hoodies",
+    "priceInPaise": 259900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Groundwork colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 13,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/groundwork-tote-13-1.svg",
+      "/products/groundwork-tote-13-2.svg"
+    ]
+  },
+  {
+    "name": "Afterburn Overshirt",
+    "slug": "afterburn-overshirt-14",
+    "sku": "CK-T--1014",
+    "category": "T-Shirts",
+    "priceInPaise": 329900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Afterburn colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 14,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/afterburn-overshirt-14-1.svg",
+      "/products/afterburn-overshirt-14-2.svg"
+    ]
+  },
+  {
+    "name": "Lowlight Sweatpant",
+    "slug": "lowlight-sweatpant-15",
+    "sku": "CK-JA-1015",
+    "category": "Jackets",
+    "priceInPaise": 359900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Lowlight colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 15,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/lowlight-sweatpant-15-1.svg",
+      "/products/lowlight-sweatpant-15-2.svg"
+    ]
+  },
+  {
+    "name": "Hazeline Tee",
+    "slug": "hazeline-tee-16",
+    "sku": "CK-BO-1016",
+    "category": "Bottoms",
+    "priceInPaise": 239900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Hazeline colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 16,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/hazeline-tee-16-1.svg",
+      "/products/hazeline-tee-16-2.svg"
+    ]
+  },
+  {
+    "name": "Ironclad Shorts",
+    "slug": "ironclad-shorts-17",
+    "sku": "CK-HE-1017",
+    "category": "Headwear",
+    "priceInPaise": 389900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Ironclad colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 17,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/ironclad-shorts-17-1.svg",
+      "/products/ironclad-shorts-17-2.svg"
+    ]
+  },
+  {
+    "name": "Backlot Tote",
+    "slug": "backlot-tote-18",
+    "sku": "CK-AC-1018",
+    "category": "Accessories",
+    "priceInPaise": 179900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Backlot colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 18,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/backlot-tote-18-1.svg",
+      "/products/backlot-tote-18-2.svg"
+    ]
+  },
+  {
+    "name": "Fringe Overshirt",
+    "slug": "fringe-overshirt-19",
+    "sku": "CK-HO-1019",
+    "category": "Hoodies",
+    "priceInPaise": 229900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Fringe colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 19,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/fringe-overshirt-19-1.svg",
+      "/products/fringe-overshirt-19-2.svg"
+    ]
+  },
+  {
+    "name": "Molten Sweatpant",
+    "slug": "molten-sweatpant-20",
+    "sku": "CK-T--1020",
+    "category": "T-Shirts",
+    "priceInPaise": 379900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Molten colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 20,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/molten-sweatpant-20-1.svg",
+      "/products/molten-sweatpant-20-2.svg"
+    ]
+  },
+  {
+    "name": "Driftline Tee",
+    "slug": "driftline-tee-21",
+    "sku": "CK-JA-1021",
+    "category": "Jackets",
+    "priceInPaise": 339900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Driftline colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 21,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/driftline-tee-21-1.svg",
+      "/products/driftline-tee-21-2.svg"
+    ]
+  },
+  {
+    "name": "Undertow Shorts",
+    "slug": "undertow-shorts-22",
+    "sku": "CK-BO-1022",
+    "category": "Bottoms",
+    "priceInPaise": 319900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Undertow colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 22,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/undertow-shorts-22-1.svg",
+      "/products/undertow-shorts-22-2.svg"
+    ]
+  },
+  {
+    "name": "Cinderline Tote",
+    "slug": "cinderline-tote-23",
+    "sku": "CK-HE-1023",
+    "category": "Headwear",
+    "priceInPaise": 149900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Cinderline colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 23,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/cinderline-tote-23-1.svg",
+      "/products/cinderline-tote-23-2.svg"
+    ]
+  },
+  {
+    "name": "Bruteline Overshirt",
+    "slug": "bruteline-overshirt-24",
+    "sku": "CK-AC-1024",
+    "category": "Accessories",
+    "priceInPaise": 219900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Bruteline colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 24,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/bruteline-overshirt-24-1.svg",
+      "/products/bruteline-overshirt-24-2.svg"
+    ]
+  },
+  {
+    "name": "Halflight Sweatpant",
+    "slug": "halflight-sweatpant-25",
+    "sku": "CK-HO-1025",
+    "category": "Hoodies",
+    "priceInPaise": 389900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Halflight colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 25,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/halflight-sweatpant-25-1.svg",
+      "/products/halflight-sweatpant-25-2.svg"
+    ]
+  },
+  {
+    "name": "Static Tee",
+    "slug": "static-tee-26",
+    "sku": "CK-T--1026",
+    "category": "T-Shirts",
+    "priceInPaise": 309900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Static colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 26,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/static-tee-26-1.svg",
+      "/products/static-tee-26-2.svg"
+    ]
+  },
+  {
+    "name": "Blackout Shorts",
+    "slug": "blackout-shorts-27",
+    "sku": "CK-JA-1027",
+    "category": "Jackets",
+    "priceInPaise": 279900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Blackout colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 27,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/blackout-shorts-27-1.svg",
+      "/products/blackout-shorts-27-2.svg"
+    ]
+  },
+  {
+    "name": "Ember Tote",
+    "slug": "ember-tote-28",
+    "sku": "CK-BO-1028",
+    "category": "Bottoms",
+    "priceInPaise": 149900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Ember colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 28,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/ember-tote-28-1.svg",
+      "/products/ember-tote-28-2.svg"
+    ]
+  },
+  {
+    "name": "Concrete Overshirt",
+    "slug": "concrete-overshirt-29",
+    "sku": "CK-HE-1029",
+    "category": "Headwear",
+    "priceInPaise": 259900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Concrete colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 29,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/concrete-overshirt-29-1.svg",
+      "/products/concrete-overshirt-29-2.svg"
+    ]
+  },
+  {
+    "name": "Voltage Sweatpant",
+    "slug": "voltage-sweatpant-30",
+    "sku": "CK-AC-1030",
+    "category": "Accessories",
+    "priceInPaise": 249900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Voltage colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 30,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/voltage-sweatpant-30-1.svg",
+      "/products/voltage-sweatpant-30-2.svg"
+    ]
+  },
+  {
+    "name": "Feral Tee",
+    "slug": "feral-tee-31",
+    "sku": "CK-HO-1031",
+    "category": "Hoodies",
+    "priceInPaise": 379900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Feral colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 31,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/feral-tee-31-1.svg",
+      "/products/feral-tee-31-2.svg"
+    ]
+  },
+  {
+    "name": "Quiet Shorts",
+    "slug": "quiet-shorts-32",
+    "sku": "CK-T--1032",
+    "category": "T-Shirts",
+    "priceInPaise": 259900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Quiet colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 32,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/quiet-shorts-32-1.svg",
+      "/products/quiet-shorts-32-2.svg"
+    ]
+  },
+  {
+    "name": "Rebar Tote",
+    "slug": "rebar-tote-33",
+    "sku": "CK-JA-1033",
+    "category": "Jackets",
+    "priceInPaise": 389900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Rebar colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 33,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/rebar-tote-33-1.svg",
+      "/products/rebar-tote-33-2.svg"
+    ]
+  },
+  {
+    "name": "Ashline Overshirt",
+    "slug": "ashline-overshirt-34",
+    "sku": "CK-BO-1034",
+    "category": "Bottoms",
+    "priceInPaise": 329900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Ashline colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 34,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/ashline-overshirt-34-1.svg",
+      "/products/ashline-overshirt-34-2.svg"
+    ]
+  },
+  {
+    "name": "Nightshift Sweatpant",
+    "slug": "nightshift-sweatpant-35",
+    "sku": "CK-HE-1035",
+    "category": "Headwear",
+    "priceInPaise": 309900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Nightshift colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 35,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/nightshift-sweatpant-35-1.svg",
+      "/products/nightshift-sweatpant-35-2.svg"
+    ]
+  },
+  {
+    "name": "Riot Tee",
+    "slug": "riot-tee-36",
+    "sku": "CK-AC-1036",
+    "category": "Accessories",
+    "priceInPaise": 189900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Riot colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 36,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/riot-tee-36-1.svg",
+      "/products/riot-tee-36-2.svg"
+    ]
+  },
+  {
+    "name": "Overcast Shorts",
+    "slug": "overcast-shorts-37",
+    "sku": "CK-HO-1037",
+    "category": "Hoodies",
+    "priceInPaise": 359900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Overcast colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 37,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/overcast-shorts-37-1.svg",
+      "/products/overcast-shorts-37-2.svg"
+    ]
+  },
+  {
+    "name": "Groundwork Tote",
+    "slug": "groundwork-tote-38",
+    "sku": "CK-T--1038",
+    "category": "T-Shirts",
+    "priceInPaise": 199900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Groundwork colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 38,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/groundwork-tote-38-1.svg",
+      "/products/groundwork-tote-38-2.svg"
+    ]
+  },
+  {
+    "name": "Afterburn Overshirt",
+    "slug": "afterburn-overshirt-39",
+    "sku": "CK-JA-1039",
+    "category": "Jackets",
+    "priceInPaise": 269900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Afterburn colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 39,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/afterburn-overshirt-39-1.svg",
+      "/products/afterburn-overshirt-39-2.svg"
+    ]
+  },
+  {
+    "name": "Lowlight Sweatpant",
+    "slug": "lowlight-sweatpant-40",
+    "sku": "CK-BO-1040",
+    "category": "Bottoms",
+    "priceInPaise": 219900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Lowlight colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 40,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/lowlight-sweatpant-40-1.svg",
+      "/products/lowlight-sweatpant-40-2.svg"
+    ]
+  },
+  {
+    "name": "Hazeline Tee",
+    "slug": "hazeline-tee-41",
+    "sku": "CK-HE-1041",
+    "category": "Headwear",
+    "priceInPaise": 299900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Hazeline colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 41,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/hazeline-tee-41-1.svg",
+      "/products/hazeline-tee-41-2.svg"
+    ]
+  },
+  {
+    "name": "Ironclad Shorts",
+    "slug": "ironclad-shorts-42",
+    "sku": "CK-AC-1042",
+    "category": "Accessories",
+    "priceInPaise": 309900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Ironclad colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 42,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/ironclad-shorts-42-1.svg",
+      "/products/ironclad-shorts-42-2.svg"
+    ]
+  },
+  {
+    "name": "Backlot Tote",
+    "slug": "backlot-tote-43",
+    "sku": "CK-HO-1043",
+    "category": "Hoodies",
+    "priceInPaise": 299900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Backlot colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 43,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/backlot-tote-43-1.svg",
+      "/products/backlot-tote-43-2.svg"
+    ]
+  },
+  {
+    "name": "Fringe Overshirt",
+    "slug": "fringe-overshirt-44",
+    "sku": "CK-T--1044",
+    "category": "T-Shirts",
+    "priceInPaise": 209900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Fringe colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 44,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/fringe-overshirt-44-1.svg",
+      "/products/fringe-overshirt-44-2.svg"
+    ]
+  },
+  {
+    "name": "Molten Sweatpant",
+    "slug": "molten-sweatpant-45",
+    "sku": "CK-JA-1045",
+    "category": "Jackets",
+    "priceInPaise": 329900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Molten colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 45,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/molten-sweatpant-45-1.svg",
+      "/products/molten-sweatpant-45-2.svg"
+    ]
+  },
+  {
+    "name": "Driftline Tee",
+    "slug": "driftline-tee-46",
+    "sku": "CK-BO-1046",
+    "category": "Bottoms",
+    "priceInPaise": 189900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Driftline colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 46,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/driftline-tee-46-1.svg",
+      "/products/driftline-tee-46-2.svg"
+    ]
+  },
+  {
+    "name": "Undertow Shorts",
+    "slug": "undertow-shorts-47",
+    "sku": "CK-HE-1047",
+    "category": "Headwear",
+    "priceInPaise": 149900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Undertow colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 47,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/undertow-shorts-47-1.svg",
+      "/products/undertow-shorts-47-2.svg"
+    ]
+  },
+  {
+    "name": "Cinderline Tote",
+    "slug": "cinderline-tote-48",
+    "sku": "CK-AC-1048",
+    "category": "Accessories",
+    "priceInPaise": 259900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Cinderline colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 48,
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/cinderline-tote-48-1.svg",
+      "/products/cinderline-tote-48-2.svg"
+    ]
+  },
+  {
+    "name": "Bruteline Overshirt",
+    "slug": "bruteline-overshirt-49",
+    "sku": "CK-HO-1049",
+    "category": "Hoodies",
+    "priceInPaise": 319900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Bruteline colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 49,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/bruteline-overshirt-49-1.svg",
+      "/products/bruteline-overshirt-49-2.svg"
+    ]
+  },
+  {
+    "name": "Halflight Sweatpant",
+    "slug": "halflight-sweatpant-50",
+    "sku": "CK-T--1050",
+    "category": "T-Shirts",
+    "priceInPaise": 259900,
+    "status": "SOLD_OUT",
+    "description": "Archive piece from a past drop. Halflight colourway, cut for movement, finished in small batch. Original CLOVEKICK construction \u2014 no reissues planned.",
+    "story": "",
+    "dropNumber": 50,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockCount": 0,
+    "images": [
+      "/products/halflight-sweatpant-50-1.svg",
+      "/products/halflight-sweatpant-50-2.svg"
+    ]
+  }
+]
